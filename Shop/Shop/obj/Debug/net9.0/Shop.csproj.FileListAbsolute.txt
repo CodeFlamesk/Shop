@@ -1,0 +1,15 @@
+D:\prog\js training\c# training\Shop\Shop\bin\Debug\net9.0\Shop.exe
+D:\prog\js training\c# training\Shop\Shop\bin\Debug\net9.0\Shop.deps.json
+D:\prog\js training\c# training\Shop\Shop\bin\Debug\net9.0\Shop.runtimeconfig.json
+D:\prog\js training\c# training\Shop\Shop\bin\Debug\net9.0\Shop.dll
+D:\prog\js training\c# training\Shop\Shop\bin\Debug\net9.0\Shop.pdb
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.AssemblyInfoInputs.cache
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.AssemblyInfo.cs
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.csproj.CoreCompileInputs.cache
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.sourcelink.json
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.dll
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\refint\Shop.dll
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.pdb
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\Shop.genruntimeconfig.cache
+D:\prog\js training\c# training\Shop\Shop\obj\Debug\net9.0\ref\Shop.dll
