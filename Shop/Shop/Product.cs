@@ -22,7 +22,6 @@ public class Product
         Price=price;
     }
    
-    
     public string Name
     {
         get => _name;
@@ -71,18 +70,14 @@ public class Product
         }
     }
     
-    
-    
     public void Information()
     {
      Console.WriteLine(_textNameProduct + Name);   
      Console.WriteLine(_textPriceProduct + Price + _textCurrency);   
      Console.WriteLine(_textQuantityProduct + Quantity);   
     }
+    }
 
-    
-
-}
 class Bread : Product
 {
     public Bread(string name, int quantity, decimal price) : base(name, quantity, price){}

@@ -4,7 +4,6 @@ public class Wallet
 {
     private string _massageErrorGetMoney = "Недостатньо коштів";
     private string _massageSetErrorGetMoney = "Ви не можете поставити від'ємну суму, він також хоче їсти";
-
     private decimal _money;
 
     public Wallet(decimal money)

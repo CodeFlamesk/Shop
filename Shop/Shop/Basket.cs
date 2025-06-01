@@ -11,7 +11,8 @@ namespace Shop
 
             while (true)
             {
-                Console.WriteLine("Виберіть продукт по номеру який ви хочете добавити в корзину, напишіть exit для виходу");
+                Console.WriteLine(
+                    "Виберіть продукт по номеру який ви хочете добавити в корзину, напишіть exit для виходу");
                 string answerDima = Console.ReadLine().ToLower();
 
                 if (answerDima == "exit")
@@ -19,7 +20,8 @@ namespace Shop
                     break;
                 }
 
-                if (int.TryParse(answerDima, out int productIndex) && productIndex > 0 && productIndex <= products.Count)
+                if (int.TryParse(answerDima, out int productIndex) && productIndex > 0 &&
+                    productIndex <= products.Count)
                 {
                     basket.Add(products[productIndex - 1]);
                 }

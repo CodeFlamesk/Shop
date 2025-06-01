@@ -2,8 +2,6 @@ namespace Shop;
 
 public class Payment
 {
-  
-
     private Random random = new Random();
 
     public bool Pay(ClientInfo client, List<Product> products)
